@@ -10,5 +10,4 @@ public class DeclaringVariable {
     }
 }
 
-
 // Declaring Variable Syntax = type VAriableName = value;
